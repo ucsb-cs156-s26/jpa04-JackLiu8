@@ -31,7 +31,7 @@ you with compiling Java using Maven, and submitting using Gradescope.
   * [The pom.xml file for this project](https://ucsb-cs156.github.io/topics/maven/maven_hello_world.html)
 
 
-* The `mvnw` and `mvnw.cmd` (along with the hidden subdirectory `.mvn) 
+* The `mvnw` and `mvnw.cmd` (along with the hidden subdirectory `.mvn` 
   are collectively
   referred to as the *maven wrapper*.  They provide a way for Java programs
   to use the Maven utility without having to install it.
